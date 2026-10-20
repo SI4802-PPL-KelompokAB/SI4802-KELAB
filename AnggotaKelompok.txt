@@ -1,13 +1,7 @@
 Anggota Kelompok A-B
-<<<<<<< Updated upstream
-1. Muhammad Daffa Izzati
-2. M Farhan Izza
-3. Rayhan Putra Ferlian
-=======
 1. Muhammad Daffa Izzati - 102022430036
 2. M Farhan Izza - 102022400116
 3. Rayhan Putra Ferlian -102022400267
->>>>>>> Stashed changes
 4. Alya Salma Khoerunnisa
-5. Jazzkord Cmajor Dahring
+5. Jazzkord Cmajor Dahring - 102022400361
 6. Faiza Cahya Pradani
